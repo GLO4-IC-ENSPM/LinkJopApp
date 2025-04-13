@@ -1,0 +1,5 @@
+com.joblink.test.app-androidTest-0 C:\Users\HP\Desktop\JobLinkApp\app\build\generated\res\resValues\androidTest\debug
+com.joblink.test.app-androidTest-1 C:\Users\HP\Desktop\JobLinkApp\app\build\generated\res\rs\androidTest\debug
+com.joblink.test.app-mergeDebugAndroidTestResources-2 C:\Users\HP\Desktop\JobLinkApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.joblink.test.app-mergeDebugAndroidTestResources-3 C:\Users\HP\Desktop\JobLinkApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.joblink.test.app-merged_res-4 C:\Users\HP\Desktop\JobLinkApp\app\build\intermediates\merged_res\debugAndroidTest

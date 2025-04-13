@@ -1,0 +1,7 @@
+#Sun Apr 13 21:35:54 WAT 2025
+base.1=C\:\\Users\\HP\\Desktop\\JobLinkApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\7\\classes.dex
+path.1=7/classes.dex
+base.0=C\:\\Users\\HP\\Desktop\\JobLinkApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
