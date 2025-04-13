@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 java_pid17568.hprof filter=lfs diff=lfs merge=lfs -text
+=======
+java_pid17568.hprof filter=lfs diff=lfs merge=lfs -text
+>>>>>>> b4d6f94 (Suivi des fichiers volumineux avec Git LFS)
