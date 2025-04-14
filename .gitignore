@@ -4,3 +4,4 @@
 "java_pid17568.hprof" 
 >>>>>>> 123fb57 (Ajout de java_pid17568.hprof au fichier .gitignore)
 java_pid*.hprof
+java_pid*.hprof
